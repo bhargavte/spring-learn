@@ -7,3 +7,10 @@ It follows “Opinionated Defaults Configuration” Approach to reduce Developer
 It provides Embedded HTTP servers like Tomcat, Jetty etc. to develop and test our web applications very easily.
 It provides CLI (Command Line Interface) tool to develop and test Spring Boot(Java or Groovy) Applications from command prompt very easily and quickly.
 It provides lots of plugins to develop and test Spring Boot Applications very easily using Build Tools like Maven and Gradle
+
+css
+CSS is the language we use to style an HTML document.
+
+CSS describes how HTML elements should be displayed.
+
+This tutorial will teach you CSS from basic to advanced.
